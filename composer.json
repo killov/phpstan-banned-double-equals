@@ -30,7 +30,7 @@
 	},
 	"autoload": {
 		"psr-4": {
-			"Killov\\PHPStan\\": "src/"
+			"Killov\\PHPStan\\BannedDoubleEquals": "src/"
 		}
 	},
 	"autoload-dev": {
