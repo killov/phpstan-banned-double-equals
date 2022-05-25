@@ -1,7 +1,7 @@
 {
-	"name": "phpstan/phpstan-strict-rules",
+	"name": "killov/phpstan-banned-double-equals",
 	"type": "phpstan-extension",
-	"description": "Extra strict and opinionated rules for PHPStan",
+	"description": "Extra strict equals for PHPStan",
 	"license": [
 		"MIT"
 	],

@@ -10,5 +10,5 @@ composer require --dev killov/phpstan-banned-double-equals
 
 ```
 includes:
-    - vendor/killov/phpstan-banned-double-equals/rules.neon
+    - vendor/killov/phpstan-banned-double-equals/extension.neon
 ```
