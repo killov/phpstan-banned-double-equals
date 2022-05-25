@@ -10,7 +10,7 @@ use PHPStan\Testing\RuleTestCase;
 /**
  * @extends RuleTestCase<BannedEqualsRule>
  */
-class BannedEqualsRuleTest extends RuleTestCase
+class BannedNotEqualsRuleTest extends RuleTestCase
 {
 
 	protected function getRule(): Rule
