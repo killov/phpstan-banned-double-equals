@@ -1,7 +1,0 @@
-[
-    {
-        "message": "Method PHPStan\\Levels\\OnlyBooleans\\Foo::doFoo() has parameter $mixed with no type specified.",
-        "line": 14,
-        "ignorable": true
-    }
-]
