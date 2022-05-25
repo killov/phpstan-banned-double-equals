@@ -7,7 +7,7 @@ use PHPStan\Analyser\Scope;
 use PHPStan\Rules\Rule;
 
 /**
- * @implements Rule<BooleanAndNode>
+ * @implements Rule<BannedNotEqualsRule>
  */
 class BannedNotEqualsRule implements Rule
 {
@@ -26,7 +26,7 @@ class BannedNotEqualsRule implements Rule
 	{
 		$messages = [];
 
-        $messages[] = 'Only !== are allowed.';;
+		$messages[] = 'Only !== are allowed.';;
 
 		return $messages;
 	}
