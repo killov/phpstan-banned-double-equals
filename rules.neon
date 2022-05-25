@@ -1,0 +1,3 @@
+rules:
+	- Killov\PHPStan\BannedDoubleEquals\BannedEqualsRule
+	- Killov\PHPStan\BannedDoubleEquals\BannedNotEqualsRule
